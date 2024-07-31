@@ -186,8 +186,16 @@ nav ul li a{
     border-radius: 0px;
 }
 
+/* css changes */
+.fwmanage{
+    background-color: #c7ccdf;
+}
 
+.fwm2{
+    background-color: #c7ccdf;
+}
 
+/* ------------------ */
 .fwm-title{
     text-align: center;
 }
@@ -304,8 +312,8 @@ nav ul li a{
     outline: none;
     border: 2px solid transparent;
     border-radius: 20px;
-    color: white;
-    background-color: rgb(21, 74, 74);
+    color: black;
+    background-color: #c7ccdf;
     padding: 14px 30px;
     cursor: pointer;
     font-size: 17px;
@@ -316,7 +324,7 @@ nav ul li a{
 }
 
 .newsletter form input:last-child:hover{
-    border: 2px solid rgb(21, 74, 74);
+    border: 2px solid #c7ccdf;;
     background-color: white;
     color: rgb(21, 74, 74);
 }
@@ -326,7 +334,7 @@ nav ul li a{
 
 .footer{
     margin-top: 80px;
-    background-color: rgb(21, 74, 74);
+    background-color: #c7ccdf;
 }
 
 .foot{
@@ -344,7 +352,7 @@ nav ul li a{
     margin-top: 30px;
     font-size: 20px;
     font-weight: 600;
-    color: white;
+    color: black;
     margin-bottom: 30px;
     position: relative;
 }
@@ -357,7 +365,7 @@ nav ul li a{
     width: 70px;
     left: 0;
     bottom: -7px;
-    background: white;
+    background: black;
 }
 
 .footlinks ul li{
@@ -366,14 +374,14 @@ nav ul li a{
 
 .footlinks ul li a{
     font-size: 17px;
-    color: #dddddd;
+    color: black;
     display: block;
     transition: ease 0.30s;
 }
 
 .footlinks ul li a:hover{
     transform: translate(6px);
-    color: white;
+    color: black;
 }
 
 .social a{
@@ -381,8 +389,8 @@ nav ul li a{
     margin: 4px;
     height: 40px;
     width: 40px;
-    color: rgb(21, 74, 74);
-    background-color: white;
+    color: black;
+  background-color: #c7ccdf;
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -402,7 +410,7 @@ nav ul li a{
 
 .end p{
     font-size: 15px;
-    color: white;
+    color: black;
     letter-spacing: 1px;
     font-weight: 300;
 }
